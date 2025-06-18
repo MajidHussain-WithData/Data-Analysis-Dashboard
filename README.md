@@ -53,4 +53,4 @@ This dashboard can be used to:
 
 ## 📎 Contact
 
-For questions or further insights, feel free to open an issue or reach out via GitHub.
+For questions or further insights, feel free to open an issue or reach out via GitHub or mail me at majid123rkl@gmail.com.
